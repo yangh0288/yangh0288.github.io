@@ -51,6 +51,3 @@ There also can be a simple description under the picture:
     </div>
 </div>
 
-## Attributions
-The first dog picture by [Pauline Loroy](https://unsplash.com/photos/U3aF7hgUSrk).
-The second dog picture by: [Marliese Streefland](https://unsplash.com/photos/2l0CWTpcChI).
