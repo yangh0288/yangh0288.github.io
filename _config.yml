@@ -6,7 +6,12 @@ description: description
 global_tags: jekyll theme simplex golasblog responsive html5
 copyright: © Golasowski 2021
 future: true
+theme: jekyll-theme-simplex
 
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  
 sass:
     style: compressed
 
