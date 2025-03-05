@@ -4,7 +4,7 @@ favicon: /assets/favicon.ico
 description: description
 global_tags: jekyll theme simplex golasblog responsive html5
 copyright: © Golasowski 2021
-
+baseurl: "/yangh0288.github.io"
 sass:
     style: compressed
 
