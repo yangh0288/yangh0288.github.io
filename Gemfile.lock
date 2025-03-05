@@ -1,3 +1,9 @@
+PATH
+  remote: .
+  specs:
+    jekyll-theme-simplex (0.9.8.15)
+      jekyll (~> 4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -38,8 +44,6 @@ GEM
       webrick (~> 1.7)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
-    jekyll-theme-simplex (0.9.8.15)
-      jekyll (~> 4.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.10.1)
@@ -55,6 +59,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.1)
+    rake (12.3.3)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
@@ -72,7 +77,9 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  jekyll-theme-simplex
+  bundler (~> 2.0)
+  jekyll-theme-simplex!
+  rake (~> 12.0)
 
 BUNDLED WITH
    2.6.5
