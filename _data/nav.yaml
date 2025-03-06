@@ -13,7 +13,7 @@
 
 - title: Daily
   url: category/design.html
-  icon: assets/img/calendar.svg
+  icon: assets/img/icons/calendar.svg
   hue: "var(--c-themeHueOrange)"
   subnav: #Subnav. See note [2].
     - title: Workout #Submenu item title.
