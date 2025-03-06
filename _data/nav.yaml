@@ -6,7 +6,11 @@
       - title: Python #Submenu item title.
         url: category/python.html #Submenu item url.
         hue: "var(--c-themeHueOrange)" #Submenu item hue.
-- title: Design
+  subnav: #Subnav. See note [2].
+      - title: iot #Submenu item title.
+        url: category/python.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+- title: Life
   url: category/design.html
   icon: assets/img/icons/paint_brush.svg
   hue: "var(--c-themeHueOrange)"
@@ -14,7 +18,7 @@
     - title: Python #Submenu item title.
       url: category/python.html #Submenu item url.
       hue: "var(--c-themeHueOrange)" #Submenu item hue.
-- title: About
+- title: Profile
   url: about/index.html
   icon: assets/img/icons/info.svg
   hue: "var(--c-themeHueGreen)"
